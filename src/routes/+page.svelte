@@ -19,7 +19,7 @@
 	<div />
 	<div class="flex flex-col items-center justify-betwee">
 		<div class="">02/</div>
-		<div class="">boom... let's make a business out it!</div>
+		<div class="">boom... make a business out it!</div>
 	</div>
 	<div />
 </div>
